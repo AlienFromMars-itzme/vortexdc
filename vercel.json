@@ -1,9 +1,0 @@
-{
-  "redirects": [
-    {
-      "source": "/(.*)",
-      "destination": "https://discord.com/invite/q65rJyrg2c",
-      "permanent": false
-    }
-  ]
-}
