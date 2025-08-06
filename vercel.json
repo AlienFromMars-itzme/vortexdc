@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://discord.com/$1"
+      "destination": "https://discord.com/invite/q65rJyrg2c/$1"
     }
   ]
 }
