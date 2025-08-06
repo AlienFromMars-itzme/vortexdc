@@ -1,8 +1,9 @@
 {
-  "rewrites": [
+  "redirects": [
     {
       "source": "/(.*)",
-      "destination": "https://discord.com/invite/q65rJyrg2c"
+      "destination": "https://discord.com/invite/q65rJyrg2c",
+      "permanent": false
     }
   ]
 }
